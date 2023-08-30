@@ -1,4 +1,4 @@
-# canny_edge_detector
+# Canny Edge Detector - MATLAB Implementation
 
 The algorithm incorporates standard form Canny Edge Detection methodology to sufficiently segment normalised pixel magnitudes that are formally classified through hysteresis thresholding.
 
